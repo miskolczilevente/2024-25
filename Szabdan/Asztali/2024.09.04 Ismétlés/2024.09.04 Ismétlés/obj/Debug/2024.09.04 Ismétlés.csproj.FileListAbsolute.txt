@@ -1,0 +1,7 @@
+H:\2024-25\Szabdan\Asztali\2024.09.04 Ismétlés\2024.09.04 Ismétlés\bin\Debug\2024.09.04 Ismétlés.exe.config
+H:\2024-25\Szabdan\Asztali\2024.09.04 Ismétlés\2024.09.04 Ismétlés\bin\Debug\2024.09.04 Ismétlés.exe
+H:\2024-25\Szabdan\Asztali\2024.09.04 Ismétlés\2024.09.04 Ismétlés\bin\Debug\2024.09.04 Ismétlés.pdb
+H:\2024-25\Szabdan\Asztali\2024.09.04 Ismétlés\2024.09.04 Ismétlés\obj\Debug\2024.09.04 Ismétlés.csproj.AssemblyReference.cache
+H:\2024-25\Szabdan\Asztali\2024.09.04 Ismétlés\2024.09.04 Ismétlés\obj\Debug\2024.09.04 Ismétlés.csproj.CoreCompileInputs.cache
+H:\2024-25\Szabdan\Asztali\2024.09.04 Ismétlés\2024.09.04 Ismétlés\obj\Debug\2024.09.04 Ismétlés.exe
+H:\2024-25\Szabdan\Asztali\2024.09.04 Ismétlés\2024.09.04 Ismétlés\obj\Debug\2024.09.04 Ismétlés.pdb
