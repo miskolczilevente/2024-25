@@ -28,13 +28,15 @@ const products = [
 
 function cheapest() {
     let min = Infinity;
-    for (let i = 0; i < products.length; i++) {
-        if (products.price[i] < min) {
-            min = products.price[i]
+    let termek = products.name[0]
+    for (const element of products) {
+        if (element.price < min) {
+            min = element.price
         }
-        
     }
-    console.log("Cheapest product is:" , )
+    
+    
+    console.log("Cheapest product is:" , min )
 }
 
 
