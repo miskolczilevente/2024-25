@@ -21,6 +21,7 @@ namespace _2024_09_11_Ismetles_Matrix
         {
             MatrixFeltolt();
             MatrixKiir();
+            MatrixPath();
 
             Console.ReadLine();
         }
@@ -79,5 +80,20 @@ namespace _2024_09_11_Ismetles_Matrix
             int b = mine < 2200 ? (mine + 300)/20 : 126;
             return r.Next(a > b ? b : a, a > b ? a :b) *20;
         }
+
+        static void MatrixPath()
+        {
+            int x = 0;
+            int y = 0;
+            while (x < t.Count())
+            {
+                if (t[x+1][y] > t[x][y+1])
+                {
+                    t[x][y]
+                    x++;                    
+                }
+            }
+        }
+
     }
 }

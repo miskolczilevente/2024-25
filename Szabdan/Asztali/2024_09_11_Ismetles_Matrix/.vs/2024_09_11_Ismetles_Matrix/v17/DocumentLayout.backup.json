@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 1csop\\2024_09_11_Ismetles_Matrix\\",
+  "WorkspaceRootPath": "H:\\!2024-25\\Szabdan\\Asztali\\2024_09_11_Ismetles_Matrix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{264779F6-DD20-4A34-8954-76D232D7FEF7}|2024_09_11_Ismetles_Matrix\\2024_09_11_Ismetles_Matrix.csproj|h:\\2024-2025\\12.cb aaf 1csop\\2024_09_11_ismetles_matrix\\2024_09_11_ismetles_matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264779F6-DD20-4A34-8954-76D232D7FEF7}|2024_09_11_Ismetles_Matrix\\2024_09_11_Ismetles_Matrix.csproj|h:\\!2024-25\\szabdan\\asztali\\2024_09_11_ismetles_matrix\\2024_09_11_ismetles_matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264779F6-DD20-4A34-8954-76D232D7FEF7}|2024_09_11_Ismetles_Matrix\\2024_09_11_Ismetles_Matrix.csproj|solutionrelative:2024_09_11_ismetles_matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 1csop\\2024_09_11_Ismetles_Matrix\\2024_09_11_Ismetles_Matrix\\Program.cs",
+              "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Asztali\\2024_09_11_Ismetles_Matrix\\2024_09_11_Ismetles_Matrix\\Program.cs",
               "RelativeDocumentMoniker": "2024_09_11_Ismetles_Matrix\\Program.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb AAF 1csop\\2024_09_11_Ismetles_Matrix\\2024_09_11_Ismetles_Matrix\\Program.cs",
+              "ToolTip": "H:\\!2024-25\\Szabdan\\Asztali\\2024_09_11_Ismetles_Matrix\\2024_09_11_Ismetles_Matrix\\Program.cs",
               "RelativeToolTip": "2024_09_11_Ismetles_Matrix\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAewDYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T05:39:34.546Z",
               "EditorCaption": ""
