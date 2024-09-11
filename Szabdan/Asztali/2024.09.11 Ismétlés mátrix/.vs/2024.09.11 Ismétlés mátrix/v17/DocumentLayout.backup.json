@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\!2024-25\\Szabdan\\Asztali\\2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4731D7C0-B7DC-41BE-AFC3-081448A850D9}|2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix.csproj|h:\\!2024-25\\szabdan\\asztali\\2024.09.11 ism\u00E9tl\u00E9s m\u00E1trix\\2024.09.11 ism\u00E9tl\u00E9s m\u00E1trix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4731D7C0-B7DC-41BE-AFC3-081448A850D9}|2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix.csproj|solutionrelative:2024.09.11 ism\u00E9tl\u00E9s m\u00E1trix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Asztali\\2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\Program.cs",
+              "RelativeDocumentMoniker": "2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\Program.cs",
+              "ToolTip": "H:\\!2024-25\\Szabdan\\Asztali\\2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\Program.cs*",
+              "RelativeToolTip": "2024.09.11 Ism\u00E9tl\u00E9s m\u00E1trix\\Program.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwE4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:39:44.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

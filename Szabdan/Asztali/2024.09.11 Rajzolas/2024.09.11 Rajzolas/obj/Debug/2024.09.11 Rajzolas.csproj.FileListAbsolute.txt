@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Rajzolas\2024.09.11 Rajzolas\bin\Debug\2024.09.11 Rajzolas.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Rajzolas\2024.09.11 Rajzolas\bin\Debug\2024.09.11 Rajzolas.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Rajzolas\2024.09.11 Rajzolas\bin\Debug\2024.09.11 Rajzolas.pdb
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Rajzolas\2024.09.11 Rajzolas\obj\Debug\2024.09.11 Rajzolas.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Rajzolas\2024.09.11 Rajzolas\obj\Debug\2024.09.11 Rajzolas.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Rajzolas\2024.09.11 Rajzolas\obj\Debug\2024.09.11 Rajzolas.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Rajzolas\2024.09.11 Rajzolas\obj\Debug\2024.09.11 Rajzolas.pdb

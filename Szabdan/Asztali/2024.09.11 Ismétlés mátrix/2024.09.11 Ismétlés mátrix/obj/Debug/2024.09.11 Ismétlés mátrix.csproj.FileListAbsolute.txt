@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Ismétlés mátrix\2024.09.11 Ismétlés mátrix\bin\Debug\2024.09.11 Ismétlés mátrix.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Ismétlés mátrix\2024.09.11 Ismétlés mátrix\bin\Debug\2024.09.11 Ismétlés mátrix.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Ismétlés mátrix\2024.09.11 Ismétlés mátrix\bin\Debug\2024.09.11 Ismétlés mátrix.pdb
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Ismétlés mátrix\2024.09.11 Ismétlés mátrix\obj\Debug\2024.09.11 Ismétlés mátrix.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Ismétlés mátrix\2024.09.11 Ismétlés mátrix\obj\Debug\2024.09.11 Ismétlés mátrix.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Ismétlés mátrix\2024.09.11 Ismétlés mátrix\obj\Debug\2024.09.11 Ismétlés mátrix.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.11 Ismétlés mátrix\2024.09.11 Ismétlés mátrix\obj\Debug\2024.09.11 Ismétlés mátrix.pdb
