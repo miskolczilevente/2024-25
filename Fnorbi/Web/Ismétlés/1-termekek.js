@@ -26,26 +26,10 @@ const products = [
     }
 ];
 
-function cheapest() {
-    let min = Infinity;
-    let termek = products.name[0]
-    for (const element of products) {
-        if (element.price < min) {
-            min = element.price
-        }
+let cheapest = products[0];
+for (const product of products) {
+    if (product.price < cheapest.price) {
+        cheapest = product;
     }
-    
-    
-    console.log("Cheapest product is:" , min )
 }
-
-
-function countABPairs(text) {
-    let db = 0;
-    for (let i = 0; i < text.length-1; i++) {
-        if (text[i] === "a" && text[i+1] === "b"){
-            db++;
-        }
-    }
-    return db;
-}
+// console.log(`Legolcsóbb termék: ${cheapest.name} (${cheapest.category})`);
