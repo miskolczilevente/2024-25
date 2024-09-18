@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 1csop\2024_09_18_fajlbeolvasas_structban\2024_09_18_fajlbeolvasas_structban\bin\Debug\2024_09_18_fajlbeolvasas_structban.exe.config
+H:\2024-2025\12.cb AAF 1csop\2024_09_18_fajlbeolvasas_structban\2024_09_18_fajlbeolvasas_structban\bin\Debug\2024_09_18_fajlbeolvasas_structban.exe
+H:\2024-2025\12.cb AAF 1csop\2024_09_18_fajlbeolvasas_structban\2024_09_18_fajlbeolvasas_structban\bin\Debug\2024_09_18_fajlbeolvasas_structban.pdb
+H:\2024-2025\12.cb AAF 1csop\2024_09_18_fajlbeolvasas_structban\2024_09_18_fajlbeolvasas_structban\obj\Debug\2024_09_18_fajlbeolvasas_structban.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 1csop\2024_09_18_fajlbeolvasas_structban\2024_09_18_fajlbeolvasas_structban\obj\Debug\2024_09_18_fajlbeolvasas_structban.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 1csop\2024_09_18_fajlbeolvasas_structban\2024_09_18_fajlbeolvasas_structban\obj\Debug\2024_09_18_fajlbeolvasas_structban.exe
+H:\2024-2025\12.cb AAF 1csop\2024_09_18_fajlbeolvasas_structban\2024_09_18_fajlbeolvasas_structban\obj\Debug\2024_09_18_fajlbeolvasas_structban.pdb

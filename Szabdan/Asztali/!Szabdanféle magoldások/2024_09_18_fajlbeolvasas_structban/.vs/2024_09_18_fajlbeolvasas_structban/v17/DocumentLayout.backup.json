@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 1csop\\2024_09_18_fajlbeolvasas_structban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD934C1-3143-4889-AE82-28DFD8C2121E}|2024_09_18_fajlbeolvasas_structban\\2024_09_18_fajlbeolvasas_structban.csproj|h:\\2024-2025\\12.cb aaf 1csop\\2024_09_18_fajlbeolvasas_structban\\2024_09_18_fajlbeolvasas_structban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD934C1-3143-4889-AE82-28DFD8C2121E}|2024_09_18_fajlbeolvasas_structban\\2024_09_18_fajlbeolvasas_structban.csproj|solutionrelative:2024_09_18_fajlbeolvasas_structban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 1csop\\2024_09_18_fajlbeolvasas_structban\\2024_09_18_fajlbeolvasas_structban\\Program.cs",
+              "RelativeDocumentMoniker": "2024_09_18_fajlbeolvasas_structban\\Program.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 1csop\\2024_09_18_fajlbeolvasas_structban\\2024_09_18_fajlbeolvasas_structban\\Program.cs",
+              "RelativeToolTip": "2024_09_18_fajlbeolvasas_structban\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:12:59.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

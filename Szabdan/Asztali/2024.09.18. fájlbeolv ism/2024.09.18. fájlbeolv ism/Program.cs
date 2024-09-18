@@ -13,17 +13,18 @@ namespace _2024._09._18.fájlbeolv_ism
         static void Main(string[] args)
         {
             fileread();
+            Console.ReadLine();
         }
 
         static void fileread() 
         {
-            StreamReader sr = new StreamReader("");
+            StreamReader sr = new StreamReader("megoldas.txt");
             int n = Convert.ToInt32(sr.ReadLine());
             while (sr.EndOfStream) 
             {
                 Solutions solution = new Solutions();
                 solution.name = sr.ReadLine();
-                for (int i = 0; i < 9; i++) 
+                for (int i = 0; i < 10; i++) 
                 {
                     List<int> sor = new List<int> (Convert.ToInt32(sr.ReadLine().Split(' ')));
                     for (int j = 0; j < sor.Count; j++)
