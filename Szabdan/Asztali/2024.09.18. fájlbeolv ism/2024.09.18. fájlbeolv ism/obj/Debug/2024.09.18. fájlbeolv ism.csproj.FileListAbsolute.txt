@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.09.18. fájlbeolv ism\2024.09.18. fájlbeolv ism\bin\Debug\_2024._09._18.fájlbeolv_ism.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.09.18. fájlbeolv ism\2024.09.18. fájlbeolv ism\bin\Debug\_2024._09._18.fájlbeolv_ism.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.18. fájlbeolv ism\2024.09.18. fájlbeolv ism\bin\Debug\_2024._09._18.fájlbeolv_ism.pdb
+H:\!2024-25\Szabdan\Asztali\2024.09.18. fájlbeolv ism\2024.09.18. fájlbeolv ism\obj\Debug\2024.09.18. fájlbeolv ism.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.18. fájlbeolv ism\2024.09.18. fájlbeolv ism\obj\Debug\2024.09.18. fájlbeolv ism.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.18. fájlbeolv ism\2024.09.18. fájlbeolv ism\obj\Debug\_2024._09._18.fájlbeolv_ism.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.18. fájlbeolv ism\2024.09.18. fájlbeolv ism\obj\Debug\_2024._09._18.fájlbeolv_ism.pdb
