@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.09.24 Pitypang\2024.09.24 Pitypang\bin\Debug\2024.09.24 Pitypang.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.09.24 Pitypang\2024.09.24 Pitypang\bin\Debug\2024.09.24 Pitypang.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.24 Pitypang\2024.09.24 Pitypang\bin\Debug\2024.09.24 Pitypang.pdb
+H:\!2024-25\Szabdan\Asztali\2024.09.24 Pitypang\2024.09.24 Pitypang\obj\Debug\2024.09.24 Pitypang.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.24 Pitypang\2024.09.24 Pitypang\obj\Debug\2024.09.24 Pitypang.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.24 Pitypang\2024.09.24 Pitypang\obj\Debug\2024.09.24 Pitypang.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.24 Pitypang\2024.09.24 Pitypang\obj\Debug\2024.09.24 Pitypang.pdb
