@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.09.25 ClassokGyakorlasa\2024.09.25 ClassokGyakorlasa\bin\Debug\2024.09.25 ClassokGyakorlasa.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.09.25 ClassokGyakorlasa\2024.09.25 ClassokGyakorlasa\bin\Debug\2024.09.25 ClassokGyakorlasa.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.25 ClassokGyakorlasa\2024.09.25 ClassokGyakorlasa\bin\Debug\2024.09.25 ClassokGyakorlasa.pdb
+H:\!2024-25\Szabdan\Asztali\2024.09.25 ClassokGyakorlasa\2024.09.25 ClassokGyakorlasa\obj\Debug\2024.09.25 ClassokGyakorlasa.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.25 ClassokGyakorlasa\2024.09.25 ClassokGyakorlasa\obj\Debug\2024.09.25 ClassokGyakorlasa.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.25 ClassokGyakorlasa\2024.09.25 ClassokGyakorlasa\obj\Debug\2024.09.25 ClassokGyakorlasa.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.25 ClassokGyakorlasa\2024.09.25 ClassokGyakorlasa\obj\Debug\2024.09.25 ClassokGyakorlasa.pdb

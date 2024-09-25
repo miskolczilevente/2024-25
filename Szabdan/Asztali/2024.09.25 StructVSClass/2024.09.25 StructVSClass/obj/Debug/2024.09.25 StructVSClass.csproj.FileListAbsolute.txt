@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.09.25 StructVSClass\2024.09.25 StructVSClass\bin\Debug\2024.09.25 StructVSClass.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.09.25 StructVSClass\2024.09.25 StructVSClass\bin\Debug\2024.09.25 StructVSClass.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.25 StructVSClass\2024.09.25 StructVSClass\bin\Debug\2024.09.25 StructVSClass.pdb
+H:\!2024-25\Szabdan\Asztali\2024.09.25 StructVSClass\2024.09.25 StructVSClass\obj\Debug\2024.09.25 StructVSClass.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.25 StructVSClass\2024.09.25 StructVSClass\obj\Debug\2024.09.25 StructVSClass.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.09.25 StructVSClass\2024.09.25 StructVSClass\obj\Debug\2024.09.25 StructVSClass.exe
+H:\!2024-25\Szabdan\Asztali\2024.09.25 StructVSClass\2024.09.25 StructVSClass\obj\Debug\2024.09.25 StructVSClass.pdb
