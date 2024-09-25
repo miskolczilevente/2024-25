@@ -19,7 +19,8 @@ namespace _2024._09._25_ClassokGyakorlasa
         }
         static void Fajlbeolvasas()
         {
-            PitypangBeolv("pitypang.txt");
+            Pitypang.PitypangBeolv("pitypang.txt");
+
         }
 
         
@@ -53,7 +54,7 @@ namespace _2024._09._25_ClassokGyakorlasa
             this.nev = nev;
         }
 
-        static void PitypangBeolv(string eleres)
+        public static void PitypangBeolv(string eleres)
         {
             StreamReader sr = new StreamReader(eleres);
 
