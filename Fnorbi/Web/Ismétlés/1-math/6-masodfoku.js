@@ -1,4 +1,4 @@
-function solveQuadratic(a, b, c,) {
+function solveQuadratic(a, b, c) {
     const D = b*b - 4*a*c;
     if (D < 0) {
         return {};
@@ -8,7 +8,7 @@ function solveQuadratic(a, b, c,) {
         const gyokD = Math.sqrt(D);
         return {
             x1: (-b+gyokD)/(2*a),
-            x2: (+b+gyokD)/(2*a)
+            x2: (-b-gyokD)/(2*a)
         };
     }
 }
