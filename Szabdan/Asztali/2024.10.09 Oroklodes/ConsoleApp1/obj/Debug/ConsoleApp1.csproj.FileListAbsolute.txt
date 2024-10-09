@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

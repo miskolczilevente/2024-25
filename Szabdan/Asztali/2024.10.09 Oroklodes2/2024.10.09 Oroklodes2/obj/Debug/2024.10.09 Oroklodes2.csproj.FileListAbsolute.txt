@@ -1,0 +1,7 @@
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes2\2024.10.09 Oroklodes2\bin\Debug\2024.10.09 Oroklodes2.exe.config
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes2\2024.10.09 Oroklodes2\bin\Debug\2024.10.09 Oroklodes2.exe
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes2\2024.10.09 Oroklodes2\bin\Debug\2024.10.09 Oroklodes2.pdb
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes2\2024.10.09 Oroklodes2\obj\Debug\2024.10.09 Oroklodes2.csproj.AssemblyReference.cache
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes2\2024.10.09 Oroklodes2\obj\Debug\2024.10.09 Oroklodes2.csproj.CoreCompileInputs.cache
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes2\2024.10.09 Oroklodes2\obj\Debug\2024.10.09 Oroklodes2.exe
+H:\!2024-25\Szabdan\Asztali\2024.10.09 Oroklodes2\2024.10.09 Oroklodes2\obj\Debug\2024.10.09 Oroklodes2.pdb
