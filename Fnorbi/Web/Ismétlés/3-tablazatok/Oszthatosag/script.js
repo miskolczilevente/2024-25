@@ -50,7 +50,6 @@ function handleLoad() {
 function setClickHandlers() {
     for (let i = 0; i < m.length; i++) {
         for (let j = 0; j < m[i].length; j++) {
-            const element = array[j];
             
         }
         
