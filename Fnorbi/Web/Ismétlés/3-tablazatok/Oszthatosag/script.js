@@ -1,5 +1,6 @@
 
 let m = []
+const table = document.querySelector("table")
 
 function randint(a,b) {
     return Math.floor(Math.random() * (b-a+1))+a
@@ -9,10 +10,10 @@ function randint(a,b) {
 function generate() {
     generateMatrix()
     showTable()
+    setClickHandlers()
 }
 
 function showTable(Oszto) {
-    const table = document.querySelector("table")
     let data = ""
     for (let i = 0; i < m.length; i++) {
         data += "<tr>"
@@ -48,14 +49,39 @@ function handleLoad() {
 }
 
 function setClickHandlers() {
-    for (let i = 0; i < m.length; i++) {
-        for (let j = 0; j < m[i].length; j++) {
-            
+    const rows = table.rows
+    for (const row of rows) {
+        const cells = row.cells
+        for (const cell of cells) {
+            cell.addEventListener("click", handleClick)
         }
-        
-    }
+}
 }
 
+function selectNumber() {
+    const d = parseInt(input.value)
+    const rows = table.rows
+    for (const row of rows) {
+        const cells = row.cells
+        for (const cell of cells) {
+            
+            cell.classList.toggle("oszthato", parseInt(cell.innerText) % d === 0)
+            
+             
+        }
+}
+}
+
+
+
+function handleClick() {
+    this.classList.toggle("oszthato")
+    
+}
+
+
+const input = document.querySelector("input")
+input.addEventListener("input", selectNumber)
 const button = document.querySelector("button")
 button.addEventListener("click", generate)
 
