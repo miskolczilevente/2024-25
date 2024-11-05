@@ -41,7 +41,7 @@
 56H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\package.json133722395344630150 0
 61H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\package-lock.json133730249870405370 0
 73H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\lmdb\src\txn.cpp133722419243695876 0
-58H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\src\index.html133730238702628815 0
+58H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\src\index.html133731084539567413 0
 106H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\csso\node_modules\css-tree\lib\syntax\node\CDC.js133722419254458931 0
 77H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\msgpackr\SECURITY.md133722419229769458 0
 128H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\three\src\renderers\shaders\ShaderChunk\alphatest_pars_fragment.glsl.js133722347475303332 0
@@ -54,7 +54,7 @@
 63H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\nanoid133730246777480090 1
 137H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaFeature.js133722419242032656 0
 89H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\three\src\renderers\webgpu\nodes133722347614163617 1
-60H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\src\js\script.js133722383557704678 0
+60H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\src\js\script.js133731092628154211 0
 87H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\css-select\lib\attributes.d.ts133722419239172261 0
 73H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\three\src\lights133722347587913629 1
 84H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\three\examples\jsm\textures133722347498851125 1
@@ -2221,7 +2221,7 @@
 96H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\three\examples\jsm\curves\NURBSCurve.js133722347538247203 0
 104H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@parcel\transformer-json\src\JSONTransformer.js133722419194173141 0
 76H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\csso\cjs\syntax.cjs133722419219748265 0
-70H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src\index.e82f28a0.js133730250350698326 0
+70H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src\index.e82f28a0.js133751853228434426 0
 98H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\three\src\nodes\accessors\MaterialNode.js133722347528760732 0
 102H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@parcel\package-manager\src\installPackage.js133722419213742824 0
 91H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@swc\helpers\src\_create_super.mjs133722419279015295 0
@@ -6126,7 +6126,7 @@
 95H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@swc\helpers\esm\_iterable_to_array.js133722419268127714 0
 105H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@swc\helpers\esm\_possible_constructor_return.js133722419268699916 0
 81H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@swc\helpers\esm\_set.js133722419268799138 0
-52H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src133730250351701782 1
+52H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src133751853230778370 1
 87H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@parcel\utils\src\sourcemap.js133722419240219482 0
 94H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@swc\helpers\esm\_set_prototype_of.js133722419268872558 0
 82H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\@parcel\markdown-ansi\lib133722419191462386 1
@@ -7244,5 +7244,5 @@
 70H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\.bin\svgo.ps1133722419421462395 0
 88H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\.bin\update-browserslist-db.cmd133722419421618702 0
 66H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\node_modules\.bin\vite133730246784656022 0
-74H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src\index.e82f28a0.js.map133730250351545378 0
-63H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src\index.html133730250339820384 0
+63H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src\index.html133751853222965728 0
+74H:\!2024-25\Szabdan\Ikt\Modellezes\THREE JS\dist\src\index.e82f28a0.js.map133751853230934447 0

@@ -588,6 +588,18 @@ var _three = require("three");
 const renderer = new _three.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
+const scene = new _three.Scene();
+const camera = new _three.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+const axesHelper = new _three.AxesHelper(3);
+scene.add(axesHelper);
+camera.position.set(5, 1, 5);
+const boxGeometry = new _three.BoxGeometry();
+const boxMaterial = new _three.MeshBasicMaterial({
+    color: "red"
+});
+const box = new _three.Mesh(boxGeometry, boxMaterial);
+scene.add(box);
+renderer.render(scene, camera);
 
 },{"three":"ktPTu"}],"ktPTu":[function(require,module,exports) {
 /**
