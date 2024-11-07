@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DF9EC0E0-6FF2-49C2-92FC-8B6BF454ED42}</ProjectGuid>
+    <ProjectGuid>{58B79B77-F134-4327-81A3-C84C0A34094D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2024._10._22.Kavezo</RootNamespace>
-    <AssemblyName>_2024._10._22.Kavezo</AssemblyName>
+    <RootNamespace>_2024_10_22_Kavezo</RootNamespace>
+    <AssemblyName>2024_10_22_Kavezo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IArlap.cs" />
+    <Compile Include="Kave.cs" />
+    <Compile Include="Pekseg.cs" />
     <Compile Include="Peksutemeny.cs" />
     <Compile Include="Pogacsa.cs" />
     <Compile Include="Program.cs" />

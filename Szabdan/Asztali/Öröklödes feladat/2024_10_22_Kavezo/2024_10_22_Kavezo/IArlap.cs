@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2024._10._22.Kavezo
+namespace _2024_10_22_Kavezo
 {
     internal interface IArlap
     {
@@ -12,6 +12,5 @@ namespace _2024._10._22.Kavezo
         /// Az áru árával tér vissza
         /// </summary>
         double MennyibeKerul();
-        
     }
 }

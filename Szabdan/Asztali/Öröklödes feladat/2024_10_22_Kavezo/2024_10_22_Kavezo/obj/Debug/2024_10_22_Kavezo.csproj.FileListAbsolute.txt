@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 1csop\2024_10_22_Kavezo\2024_10_22_Kavezo\bin\Debug\2024_10_22_Kavezo.exe.config
+H:\2024-2025\12.cb AAF 1csop\2024_10_22_Kavezo\2024_10_22_Kavezo\bin\Debug\2024_10_22_Kavezo.exe
+H:\2024-2025\12.cb AAF 1csop\2024_10_22_Kavezo\2024_10_22_Kavezo\bin\Debug\2024_10_22_Kavezo.pdb
+H:\2024-2025\12.cb AAF 1csop\2024_10_22_Kavezo\2024_10_22_Kavezo\obj\Debug\2024_10_22_Kavezo.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 1csop\2024_10_22_Kavezo\2024_10_22_Kavezo\obj\Debug\2024_10_22_Kavezo.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 1csop\2024_10_22_Kavezo\2024_10_22_Kavezo\obj\Debug\2024_10_22_Kavezo.exe
+H:\2024-2025\12.cb AAF 1csop\2024_10_22_Kavezo\2024_10_22_Kavezo\obj\Debug\2024_10_22_Kavezo.pdb

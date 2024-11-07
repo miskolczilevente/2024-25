@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2024._10._22.Kavezo
+namespace _2024_10_22_Kavezo
 {
     internal abstract class Peksutemeny : IArlap
     {
@@ -12,13 +12,15 @@ namespace _2024._10._22.Kavezo
         protected double mennyiseg;
         private double alapar;
 
+
         //Konstruktor
-        public Peksutemeny(double mennyiseg, double alapar)
+        public Peksutemeny(double alapar, double mennyiseg)
         {
             this.mennyiseg = mennyiseg;
             this.alapar = alapar;
         }
 
+        //metódusok
         public abstract void Megkostol();
 
         public double MennyibeKerul()
@@ -30,6 +32,5 @@ namespace _2024._10._22.Kavezo
         {
             return $"{mennyiseg} db - {MennyibeKerul()} Ft";
         }
-
     }
 }
