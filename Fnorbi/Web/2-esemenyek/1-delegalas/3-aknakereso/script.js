@@ -30,15 +30,48 @@ function showBoard() {
         const tr = document.createElement("tr");
         for (let j = 0; j < board[i].length; j++) {
             const td = document.createElement("td")
-            td.innerText = board[i][j].value;
+            if(board[i][j].isMine){
+                td.innerText = "💣";
+            }
+            else {
+                td.innerText = board[i][j].value;
+            }
+            
             tr.appendChild(td);
         }
         table.appendChild(tr);
     }
 }
 
+function generateValue(x,y) {
+    for (let i = -1; i < 2; i++) {
+        for (let j = -1; j < 2; j++) {
+            if(!(i + x < 0 || j + y < 0 || i + x > n-1 || j + y > n-1)){
+                board[x + i][y + j].value += 1;
+            }
+            
+        }
+        
+    }
+}
+
+function generateNumbers() {
+    let i = 0
+    while(i < n){
+        let randomxy = [(randint(0,n-1)),(randint(0,n-1))];
+        if(board[randomxy[0]][randomxy[1]].isMine === false)
+        {
+            board[randomxy[0]][randomxy[1]].isMine = true
+            generateValue(randomxy[0], randomxy[1])
+            i++;
+        }
+        
+    }
+}
+
 function startGame() {
     createBoard();
+    generateNumbers();
     showBoard();
 }
 
