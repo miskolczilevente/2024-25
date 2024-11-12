@@ -74,6 +74,9 @@
   <ItemGroup>
     <Compile Include="Aosztaly.cs" />
     <Compile Include="Aosztaly_Tesztelese.cs" />
+    <Compile Include="BarmiAkarmi.cs" />
+    <Compile Include="Calculator.cs" />
+    <Compile Include="Calculator_test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
