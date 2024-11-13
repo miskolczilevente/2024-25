@@ -4,18 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2024._11._12_Gepjarmu
+namespace _2024._11._13.Dolgozok
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Orszagut.JarmuvekJonnak("adatok.txt");
-            List<Jarmu> jarmuvek = Orszagut.jarmuvek;
-            Orszagut.KiketMertunkBe();
-
         }
-
-
     }
 }

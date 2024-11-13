@@ -9,7 +9,7 @@ namespace _2024._11._12_Gepjarmu
 {
     internal class Orszagut
     {
-        static List<Jarmu> jarmuvek = new List<Jarmu>();
+        public static List<Jarmu> jarmuvek = new List<Jarmu>();
 
         public static void JarmuvekJonnak(string path)
         {
@@ -37,8 +37,13 @@ namespace _2024._11._12_Gepjarmu
 
             foreach (Jarmu jarmu in jarmuvek)
             {
-                if (jarmu.GyorshajtottE(90))
-                    g.WriteLine();
+                g.Write(jarmu.ToString());
+                if (jarmu.GetType() == typeof(AudiS8) && jarmu.GyorshajtottE(90))
+                    g.Write(" Gyorshajtott");
+                if (jarmu.GetType() == typeof(Robogo) && !((Robogo)jarmu).HaladhatItt(90))
+                    g.Write(" Nem haladhat ezen az úton");
+                else if (((Robogo)jarmu).HaladhatItt(90))
+                g.WriteLine();
             }
 
             g.Close(); 
