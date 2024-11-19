@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|solutionrelative:2024_10_22_tesztelesi\\calculator_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|h:\\!2024-25\\szabdan\\szoftver teszt\\gyakorlat\\2024_10_22_tesztelesi_alapok\\2024_10_22_tesztelesi\\barmiakarmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_tesztelesi\\barmiakarmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|solutionrelative:2024_10_22_tesztelesi\\barmiakarmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|h:\\!2024-25\\szabdan\\szoftver teszt\\gyakorlat\\2024_10_22_tesztelesi_alapok\\2024_10_22_tesztelesi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_tesztelesi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|solutionrelative:2024_10_22_tesztelesi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|h:\\!2024-25\\szabdan\\szoftver teszt\\gyakorlat\\2024_10_22_tesztelesi_alapok\\2024_10_22_tesztelesi\\aosztaly_tesztelese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_tesztelesi\\aosztaly_tesztelese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|solutionrelative:2024_10_22_tesztelesi\\aosztaly_tesztelese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "2024_10_22_Tesztelesi\\BarmiAkarmi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:29:26.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T07:29:26.275Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "2024_10_22_Tesztelesi\\Calculator_test.cs",
               "ToolTip": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Calculator_test.cs",
               "RelativeToolTip": "2024_10_22_Tesztelesi\\Calculator_test.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwEsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwEsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T06:31:36.202Z",
               "EditorCaption": ""
@@ -72,12 +71,7 @@
               "RelativeToolTip": "2024_10_22_Tesztelesi\\Calculator.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T06:22:38.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-12T06:22:38.749Z"
             },
             {
               "$type": "Document",
@@ -89,8 +83,7 @@
               "RelativeToolTip": "2024_10_22_Tesztelesi\\Aosztaly_Tesztelese.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:21:05.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T06:21:05.919Z"
             },
             {
               "$type": "Document",

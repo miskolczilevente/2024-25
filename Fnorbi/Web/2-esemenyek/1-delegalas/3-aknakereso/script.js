@@ -16,10 +16,22 @@ function createBoard() {
     for (let i = 0; i < n; i++) {
         board.push([])
         for (let j = 0; j < n; j++) {
-            board[i].push({value: 0, isMine:false})
+            board[i].push({value: 0, isMine:false, isReveled: false})
             
         }
         
+    }
+}
+
+function getText(field) {
+    if (!field.isReveled) {
+        return "";
+    }
+    else if(field.isMine){
+        return "💣";
+    }
+    else if (field.value !== 0) {
+        return field.value;
     }
 }
 
@@ -30,12 +42,7 @@ function showBoard() {
         const tr = document.createElement("tr");
         for (let j = 0; j < board[i].length; j++) {
             const td = document.createElement("td")
-            if(board[i][j].isMine){
-                td.innerText = "💣";
-            }
-            else {
-                td.innerText = board[i][j].value;
-            }
+            td.innerText = getText(board[i][j])
             
             tr.appendChild(td);
         }

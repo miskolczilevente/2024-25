@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|solutionrelative:2024_10_22_tesztelesi\\calculator_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|h:\\!2024-25\\szabdan\\szoftver teszt\\gyakorlat\\2024_10_22_tesztelesi_alapok\\2024_10_22_tesztelesi\\barmiakarmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|solutionrelative:2024_10_22_tesztelesi\\barmiakarmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|h:\\!2024-25\\szabdan\\szoftver teszt\\gyakorlat\\2024_10_22_tesztelesi_alapok\\2024_10_22_tesztelesi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{918AEF40-6F5D-4E01-A74A-853DD3BA6F74}|2024_10_22_Tesztelesi\\2024_10_22_Tesztelesi.csproj|solutionrelative:2024_10_22_tesztelesi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarmiAkarmi.cs",
+              "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\BarmiAkarmi.cs",
+              "RelativeDocumentMoniker": "2024_10_22_Tesztelesi\\BarmiAkarmi.cs",
+              "ToolTip": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\BarmiAkarmi.cs",
+              "RelativeToolTip": "2024_10_22_Tesztelesi\\BarmiAkarmi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:29:26.275Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculator_test.cs",
               "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Calculator_test.cs",
               "RelativeDocumentMoniker": "2024_10_22_Tesztelesi\\Calculator_test.cs",
-              "ToolTip": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Calculator_test.cs*",
-              "RelativeToolTip": "2024_10_22_Tesztelesi\\Calculator_test.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBEAAAAMAAAAAAAAAA==",
+              "ToolTip": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Calculator_test.cs",
+              "RelativeToolTip": "2024_10_22_Tesztelesi\\Calculator_test.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwEsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T06:31:36.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculator.cs",
               "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Calculator.cs",
               "RelativeDocumentMoniker": "2024_10_22_Tesztelesi\\Calculator.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Aosztaly_Tesztelese.cs",
               "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Aosztaly_Tesztelese.cs",
               "RelativeDocumentMoniker": "2024_10_22_Tesztelesi\\Aosztaly_Tesztelese.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Aosztaly.cs",
               "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Aosztaly.cs",
               "RelativeDocumentMoniker": "2024_10_22_Tesztelesi\\Aosztaly.cs",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024_10_22_Tesztelesi_alapok\\2024_10_22_Tesztelesi\\Program.cs",
               "RelativeDocumentMoniker": "2024_10_22_Tesztelesi\\Program.cs",
