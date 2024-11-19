@@ -10,9 +10,16 @@ namespace _2024._11._19.Szuperhos
     {
         public bool legyoziE(Szuperhos szuperhos)
         {
-            if (szuperhos.mekkoraAzEreje() < this.mekkoraAzEreje())
+            if (szuperhos.GetType() == typeof(Bosszuallo))
             {
-                return true;
+                if (szuperhos.mekkoraAzEreje() < this.mekkoraAzEreje() && ((Bosszuallo)szuperhos).vanEGyengessege)
+                {
+                    return true;
+                }
+            }
+            else if () 
+            {
+                
             }
             return false;
         }
@@ -23,6 +30,8 @@ namespace _2024._11._19.Szuperhos
 
         private float szuperero;
         private bool vanEGyengessege;
+
+        public float Sz
 
         public Bosszuallo(int szuperero, bool vanEGyengessege) 
         {
