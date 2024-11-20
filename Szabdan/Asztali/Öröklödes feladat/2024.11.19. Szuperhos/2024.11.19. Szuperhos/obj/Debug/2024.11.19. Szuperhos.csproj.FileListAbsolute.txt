@@ -1,0 +1,7 @@
+C:\.School\2024-25\Szabdan\Asztali\Öröklödes feladat\2024.11.19. Szuperhos\2024.11.19. Szuperhos\obj\Debug\2024.11.19. Szuperhos.csproj.AssemblyReference.cache
+C:\.School\2024-25\Szabdan\Asztali\Öröklödes feladat\2024.11.19. Szuperhos\2024.11.19. Szuperhos\obj\Debug\2024.11.19. Szuperhos.csproj.CoreCompileInputs.cache
+C:\.School\2024-25\Szabdan\Asztali\Öröklödes feladat\2024.11.19. Szuperhos\2024.11.19. Szuperhos\bin\Debug\_2024._11._19.Szuperhos.exe.config
+C:\.School\2024-25\Szabdan\Asztali\Öröklödes feladat\2024.11.19. Szuperhos\2024.11.19. Szuperhos\bin\Debug\_2024._11._19.Szuperhos.exe
+C:\.School\2024-25\Szabdan\Asztali\Öröklödes feladat\2024.11.19. Szuperhos\2024.11.19. Szuperhos\bin\Debug\_2024._11._19.Szuperhos.pdb
+C:\.School\2024-25\Szabdan\Asztali\Öröklödes feladat\2024.11.19. Szuperhos\2024.11.19. Szuperhos\obj\Debug\_2024._11._19.Szuperhos.exe
+C:\.School\2024-25\Szabdan\Asztali\Öröklödes feladat\2024.11.19. Szuperhos\2024.11.19. Szuperhos\obj\Debug\_2024._11._19.Szuperhos.pdb

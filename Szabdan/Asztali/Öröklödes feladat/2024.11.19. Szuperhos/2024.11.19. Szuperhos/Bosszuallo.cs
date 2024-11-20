@@ -8,6 +8,15 @@ namespace _2024._11._19.Szuperhos
 {
     internal abstract class Bosszuallo : Szuperhos
     {
+
+        private float szuperero;
+        private bool vanEGyengessege;
+        public Bosszuallo(float szuperero, bool vanEGyengessege)
+        {
+            this.szuperero = szuperero;
+            this.vanEGyengessege = vanEGyengessege;
+        }
+
         public bool legyoziE(Szuperhos szuperhos)
         {
             if (szuperhos.GetType() == typeof(Bosszuallo))
@@ -17,9 +26,12 @@ namespace _2024._11._19.Szuperhos
                     return true;
                 }
             }
-            else if () 
+            else if (szuperhos.GetType() == typeof(Batman)) 
             {
-                
+                if (szuperhos.mekkoraAzEreje() * 2 <= this.mekkoraAzEreje())
+                {
+                    return true;
+                }
             }
             return false;
         }
@@ -28,16 +40,22 @@ namespace _2024._11._19.Szuperhos
             return szuperero;
         }
 
-        private float szuperero;
-        private bool vanEGyengessege;
-
-        public float Sz
-
-        public Bosszuallo(int szuperero, bool vanEGyengessege) 
+        public float Szuperero
         {
-            this.szuperero = szuperero;
-            this.vanEGyengessege = vanEGyengessege;
+            get { return szuperero; }
+            set { szuperero = value; }
         }
+        public bool VanEGyengessege
+        {
+            get { return vanEGyengessege; }
+            set { vanEGyengessege = value; }
+        }
+
+        public override string ToString()
+        {
+            return szuperero + " " + vanEGyengessege;
+        }
+
 
         public abstract bool MegmentiAVilagot();
     }

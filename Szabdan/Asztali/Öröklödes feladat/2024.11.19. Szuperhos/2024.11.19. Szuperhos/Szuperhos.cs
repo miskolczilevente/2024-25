@@ -9,6 +9,6 @@ namespace _2024._11._19.Szuperhos
     internal interface Szuperhos
     {
         bool legyoziE(Szuperhos szuperhos);
-        int mekkoraAzEreje();
+        float mekkoraAzEreje();
     }
 }

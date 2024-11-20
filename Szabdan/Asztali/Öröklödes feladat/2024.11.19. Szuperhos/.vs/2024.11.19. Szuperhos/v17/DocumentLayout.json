@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\",
+  "WorkspaceRootPath": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|h:\\!2024-25\\szabdan\\asztali\\\u00F6r\u00F6kl\u00F6des feladat\\2024.11.19. szuperhos\\2024.11.19. szuperhos\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\szuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\szuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\milliardos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\milliardos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\milliardos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\batman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\batman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|c:\\.school\\2024-25\\szabdan\\asztali\\\u00F6r\u00F6kl\u00F6des feladat\\2024.11.19. szuperhos\\2024.11.19. szuperhos\\vasember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\vasember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\szuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\szuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\kepregeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\kepregeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. szuperhos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11200706-A933-43C1-B37B-D3E5E98EBA94}|2024.11.19. Szuperhos\\2024.11.19. Szuperhos.csproj|solutionrelative:2024.11.19. szuperhos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,54 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Kepregeny.cs",
+              "DocumentMoniker": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Kepregeny.cs",
+              "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Kepregeny.cs",
+              "ToolTip": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Kepregeny.cs",
+              "RelativeToolTip": "2024.11.19. Szuperhos\\Kepregeny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:27:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Batman.cs",
+              "DocumentMoniker": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Batman.cs",
+              "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Batman.cs",
+              "ToolTip": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Batman.cs",
+              "RelativeToolTip": "2024.11.19. Szuperhos\\Batman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:20:21.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vasember.cs",
+              "DocumentMoniker": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Vasember.cs",
+              "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Vasember.cs",
+              "ToolTip": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Vasember.cs",
+              "RelativeToolTip": "2024.11.19. Szuperhos\\Vasember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:01:15.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Bosszuallo.cs",
-              "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Bosszuallo.cs",
+              "DocumentMoniker": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Bosszuallo.cs",
               "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Bosszuallo.cs",
-              "ToolTip": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Bosszuallo.cs",
+              "ToolTip": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Bosszuallo.cs",
               "RelativeToolTip": "2024.11.19. Szuperhos\\Bosszuallo.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:10:54.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Milliardos.cs",
-              "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Milliardos.cs",
+              "DocumentMoniker": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Milliardos.cs",
               "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Milliardos.cs",
-              "ToolTip": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Milliardos.cs",
+              "ToolTip": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Milliardos.cs",
               "RelativeToolTip": "2024.11.19. Szuperhos\\Milliardos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:09:51.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Szuperhos.cs",
-              "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Szuperhos.cs",
-              "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Szuperhos.cs",
-              "ToolTip": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Szuperhos.cs",
-              "RelativeToolTip": "2024.11.19. Szuperhos\\Szuperhos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:07:40.756Z"
+              "WhenOpened": "2024-11-19T08:09:51.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Szuperhos.cs",
+              "DocumentMoniker": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Szuperhos.cs",
+              "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Szuperhos.cs",
+              "ToolTip": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Szuperhos.cs",
+              "RelativeToolTip": "2024.11.19. Szuperhos\\Szuperhos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:07:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Program.cs",
+              "DocumentMoniker": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Program.cs",
               "RelativeDocumentMoniker": "2024.11.19. Szuperhos\\Program.cs",
-              "ToolTip": "H:\\!2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Program.cs",
+              "ToolTip": "C:\\.School\\2024-25\\Szabdan\\Asztali\\\u00D6r\u00F6kl\u00F6des feladat\\2024.11.19. Szuperhos\\2024.11.19. Szuperhos\\Program.cs",
               "RelativeToolTip": "2024.11.19. Szuperhos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:06:55.506Z"
             }
