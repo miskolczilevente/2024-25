@@ -39,10 +39,6 @@ namespace _2024._11._19.Szuperhos
                 
             }
 
-            
-
-
-
             r.Close();
         }
 
