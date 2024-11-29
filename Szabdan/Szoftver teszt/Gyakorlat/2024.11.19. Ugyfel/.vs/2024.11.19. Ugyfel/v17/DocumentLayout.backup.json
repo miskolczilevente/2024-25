@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{FBEBCDD7-B665-497E-B176-97FF166FC649}|2024.11.19. Ugyfel\\2024.11.19. Ugyfel.csproj|solutionrelative:2024.11.19. ugyfel\\customer_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBEBCDD7-B665-497E-B176-97FF166FC649}|2024.11.19. Ugyfel\\2024.11.19. Ugyfel.csproj|h:\\!2024-25\\szabdan\\szoftver teszt\\gyakorlat\\2024.11.19. ugyfel\\2024.11.19. ugyfel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBEBCDD7-B665-497E-B176-97FF166FC649}|2024.11.19. Ugyfel\\2024.11.19. Ugyfel.csproj|H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024.11.19. Ugyfel\\2024.11.19. ugyfel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBEBCDD7-B665-497E-B176-97FF166FC649}|2024.11.19. Ugyfel\\2024.11.19. Ugyfel.csproj|solutionrelative:2024.11.19. ugyfel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBEBCDD7-B665-497E-B176-97FF166FC649}|2024.11.19. Ugyfel\\2024.11.19. Ugyfel.csproj|h:\\!2024-25\\szabdan\\szoftver teszt\\gyakorlat\\2024.11.19. ugyfel\\2024.11.19. ugyfel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBEBCDD7-B665-497E-B176-97FF166FC649}|2024.11.19. Ugyfel\\2024.11.19. Ugyfel.csproj|H:\\!2024-25\\Szabdan\\Szoftver teszt\\Gyakorlat\\2024.11.19. Ugyfel\\2024.11.19. ugyfel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBEBCDD7-B665-497E-B176-97FF166FC649}|2024.11.19. Ugyfel\\2024.11.19. Ugyfel.csproj|solutionrelative:2024.11.19. ugyfel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,8 +47,7 @@
               "RelativeToolTip": "2024.11.19. Ugyfel\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T06:23:56.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T06:23:56.078Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "2024.11.19. Ugyfel\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T06:22:38.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T06:22:38.787Z"
             }
           ]
         }

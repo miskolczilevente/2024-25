@@ -8,10 +8,11 @@ namespace _2024._11._19.Ugyfel
 {
     internal class Customer
     {
-        public string FirstName, LastName,BirthDate, Email, Address;
-        
+        public string FirstName, LastName, Email, Address;
+        public DateTime BirthDate;
 
-        public Customer(string firstname, string lastname, string birthdate, string email, string address) 
+
+        public Customer(string firstname, string lastname, DateTime birthdate, string email, string address) 
         {
             this.FirstName = firstname;
             this.LastName = lastname;
